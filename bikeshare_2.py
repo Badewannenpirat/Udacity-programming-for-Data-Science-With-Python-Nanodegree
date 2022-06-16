@@ -186,6 +186,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+# display raw data
 def display_raw_data(df):
     raw = input('\nWould you like to display the raw data?\n')
     if raw.lower() == 'yes':
