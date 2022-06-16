@@ -207,6 +207,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
+        #added "display_raw_data(df)" for implementing query
         display_raw_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
