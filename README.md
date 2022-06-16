@@ -15,7 +15,6 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 2. The following files helps to understand the Git key terms:
    Git-KeyTerms.pdf
 
-+ [Python 3.7](https://www.python.org/downloads/release/python-373/)
 + [Anaconda](https://www.anaconda.com/)
 + [Git Version Control](https://git-scm.com/)
 + [GitHub](https://github.com/)
